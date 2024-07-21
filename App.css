@@ -1,10 +1,11 @@
 /* app.css */
 
 body {
+  background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Daesthetic&psig=AOvVaw1bdQehFAHqZ9B9PoxmImRq&ust=1721661569557000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJibzbK3uIcDFQAAAAAdAAAAABAE");
   background-size: 400% 400%;
   font-family: Arial, sans-serif;
   
-  color: #333;
+  color: #c71919;
   margin: 0;
   padding: 0;
   display: flex;

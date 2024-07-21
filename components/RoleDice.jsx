@@ -72,14 +72,22 @@ export default RoleDice;
 const DiceContainer = styled.div`
   margin-top: 48px;
   display: flex;
+  border: 2px solid black;
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbivmjyc305v123uQ25rIuTGOeubkSi8WiA&s);
   flex-direction: column;
   align-items: center;
+  color: white;
+  font-weight: bold;
 
   .dice {
     cursor: pointer;
+  background-color: red;
+  filter: grayscale(100%);
+  background-color: #2638a0;
   }
 
   p {
     font-size: 24px;
+    font-size:7;
   }
 `;
